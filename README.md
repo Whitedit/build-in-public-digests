@@ -5,5 +5,8 @@
 ## 周报目录
 
 - [2026-W42](digests/2026-W42.md)
+- [2026-W41](digests/2026-W41.md)
 - [2026-W36](digests/2026-W36.md)
+- [2026-W35](digests/2026-W35.md)
+- [2026-W34](digests/2026-W34.md)
 - [2026-W33](digests/2026-W33.md)
